@@ -15,14 +15,15 @@ export default function Home() {
     <>
       <main>
         <HeroSection />
-        <TransitionSection />
         <VideoSection />
+        <TransitionSection />
+
         <ReflectionJourney />
         <CompletionSection />
+        <InvitationSection />
         <AboutSection />
         <CoachingProcessSection />
         <TelegramSection />
-        <InvitationSection />
         <FAQSection />
       </main>
       <Footer />

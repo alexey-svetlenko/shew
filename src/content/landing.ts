@@ -23,7 +23,7 @@ export const links = {
  * ID видео на YouTube, например "dQw4w9WgXcQ".
  * Пока поле пустое, на странице показывается спокойная заглушка вместо плеера.
  */
-export const youtubeVideoId = "";
+export const youtubeVideoId = "ADU52MT_ypo";
 
 export const hero = {
   headline:

@@ -14,7 +14,7 @@ export function CompletionSection() {
         ))}
       </div>
       <div className="mt-12">
-        <CalmButton href="#about">{completion.button}</CalmButton>
+        <CalmButton href="#invitation">{completion.button}</CalmButton>
       </div>
     </Section>
   );

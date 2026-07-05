@@ -18,7 +18,7 @@ export function HeroSection() {
           ))}
         </div>
         <div className="mt-10">
-          <CalmButton href="#transition">{hero.button}</CalmButton>
+          <CalmButton href="#video">{hero.button}</CalmButton>
         </div>
       </div>
     </Section>
