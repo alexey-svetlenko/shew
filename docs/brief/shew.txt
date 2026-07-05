@@ -1,0 +1,487 @@
+I want you to design a complete premium landing page for my personal coaching brand.
+
+Use this landing page only as a UX quality reference:
+`https://checkup.pavelbilskiy.com/ru/`
+
+Do NOT copy its layout, copywriting, design, illustrations or composition.
+
+Use it only as an example of:
+
+excellent UX
+premium feeling
+trust
+emotional flow
+modern digital product
+minimalism
+
+My landing page should have its own unique concept.
+
+⸻
+
+PROJECT IDEA
+
+This is NOT a sales page.
+
+It is NOT a typical coaching website.
+
+It is NOT an information page.
+
+I want to create the feeling of the first minutes of a real coaching session.
+
+The visitor should never feel sold to.
+
+Instead, they should feel:
+
+“I feel safe here.”
+
+“I can slow down.”
+
+“I can think.”
+
+“I am not being judged.”
+
+Every screen should feel like a continuation of a quiet conversation.
+
+⸻
+
+MY PHILOSOPHY
+
+I don’t sell answers.
+
+I don’t motivate.
+
+I don’t promise quick transformations.
+
+My work is creating a space where people begin hearing themselves again.
+
+One sentence that MUST appear on the landing page exactly as written:
+
+Я не дам вам готовых ответов. Но могу создать пространство, в котором вы услышите собственные.
+
+This sentence is the core idea of the whole brand.
+
+⸻
+
+DESIGN
+
+Design should feel like a premium digital product.
+
+Think about products like:
+
+Apple
+
+Notion
+
+Linear
+
+Stripe
+
+Raycast
+
+Arc Browser
+
+Minimal.
+
+Elegant.
+
+Modern.
+
+Intelligent.
+
+Large typography.
+
+Lots of white space.
+
+Slow pace.
+
+No visual noise.
+
+No coaching clichés.
+
+No lotus.
+
+No chakras.
+
+No butterflies.
+
+No glowing people.
+
+No stock psychology images.
+
+No “life coach” stereotypes.
+
+Choose the color palette yourself.
+
+⸻
+
+MOBILE FIRST
+
+Most visitors will come from Instagram.
+
+Design mobile first.
+
+Desktop is secondary.
+
+⸻
+
+USER FLOW
+
+The landing page should follow this exact emotional journey.
+
+⸻
+
+BLOCK 1
+
+Hero
+
+Headline:
+
+Иногда мы слишком долго ищем ответы, хотя сначала стоило задать себе несколько других вопросов.
+
+Subheadline:
+
+Я не дам вам готовых ответов. Но могу создать пространство, в котором вы услышите собственные.
+
+Text:
+
+Если прямо сейчас в вашей жизни есть ситуация, которая не дает покоя, не спешите искать очередной совет.
+
+Предлагаю сначала остановиться.
+
+Уделите себе всего несколько минут.
+
+Возможно, этого будет достаточно, чтобы посмотреть на свою ситуацию немного иначе.
+
+Primary button:
+
+Давайте начнем
+
+No secondary CTA.
+
+⸻
+
+BUTTON ACTION
+
+Button should smoothly scroll to the next section.
+
+No page reload.
+
+No popup.
+
+⸻
+
+BLOCK 2
+
+Transition block.
+
+Large title:
+
+Эта встреча не для всех.
+
+Text:
+
+Если вы ждете готовых советов или быстрых решений, эта страница, скорее всего, вас разочарует.
+
+Но если вы готовы ненадолго остановиться и честно посмотреть на свою ситуацию, я приглашаю вас продолжить.
+
+Ничего не нужно отправлять мне.
+
+Все ответы останутся только у вас.
+
+Button:
+
+Я готов(а)
+
+Smooth scroll.
+
+⸻
+
+BLOCK 3
+
+Video section.
+
+Large embedded YouTube video.
+
+No autoplay.
+
+Below the video:
+
+Перед тем как продолжить
+
+Возьмите лист бумаги и ручку.
+
+Не старайтесь отвечать быстро.
+
+Здесь нет правильных ответов.
+
+Если какой-то вопрос окажется неожиданно сложным — не спешите переходить дальше.
+
+Именно такие вопросы чаще всего становятся началом важных изменений.
+
+Button:
+
+Продолжить
+
+⸻
+
+BLOCK 4
+
+Reflection journey.
+
+Do NOT make it look like a quiz.
+
+No progress bars.
+
+No scores.
+
+No forms.
+
+One screen = one question.
+
+Large typography.
+
+Lots of empty space.
+
+Each question has:
+
+Question
+
+Small supporting text
+
+Button
+
+Следующий вопрос
+
+Questions:
+
+⸻
+
+Шаг 1
+
+Что сейчас занимает ваши мысли чаще всего?
+
+Подумайте не о самой большой проблеме.
+
+О той ситуации, которая первой пришла вам в голову.
+
+⸻
+
+Шаг 2
+
+Почему именно эта ситуация требует вашего внимания именно сейчас?
+
+⸻
+
+Шаг 3
+
+Если представить, что через полгода она благополучно разрешилась…
+
+Что изменится в вашей жизни?
+
+⸻
+
+Шаг 4
+
+Что вы уже предпринимали?
+
+И что из этого действительно помогло хотя бы немного?
+
+⸻
+
+Шаг 5
+
+На что сейчас направлено ваше внимание?
+
+На проблему?
+
+На поиск решения?
+
+На мнение других?
+
+Или на что-то еще?
+
+⸻
+
+Шаг 6
+
+Если бы прямо сейчас никто не мог дать вам совет…
+
+Какой вопрос вы задали бы себе сами?
+
+⸻
+
+Шаг 7
+
+Какой самый маленький шаг мог бы приблизить вас к той жизни, которую вы описали несколько минут назад?
+
+⸻
+
+BLOCK 5
+
+Completion.
+
+Headline:
+
+Спасибо.
+
+Text:
+
+Возможно, сейчас у вас появилось больше вопросов, чем ответов.
+
+Это нормально.
+
+Хорошие вопросы редко заканчивают разговор.
+
+Чаще они становятся его началом.
+
+Button:
+
+Продолжить
+
+⸻
+
+BLOCK 6
+
+About me.
+
+Small portrait.
+
+Minimal text.
+
+Title:
+
+Немного обо мне
+
+Text:
+
+Меня зовут Вера.
+
+Я профессиональный коуч, обученный по международным стандартам ICF.
+
+На встречах я не ищу правильные ответы вместо другого человека.
+
+Я создаю пространство, в котором становится легче услышать себя, увидеть ситуацию шире и найти собственные решения.
+
+Именно поэтому в моей работе так много вопросов и так мало советов.
+
+⸻
+
+BLOCK 7
+
+How coaching works.
+
+Three cards.
+
+1
+
+Останавливаемся.
+
+Чтобы перестать действовать на автопилоте.
+
+2
+
+Исследуем.
+
+Чтобы увидеть ситуацию шире.
+
+3
+
+Двигаемся.
+
+Опираясь не на чужие советы, а на собственные осознания.
+
+⸻
+
+BLOCK 8
+
+Telegram
+
+Headline:
+
+Если вам близок такой формат размышлений…
+
+Text:
+
+В Telegram я делюсь вопросами, наблюдениями и небольшими размышлениями, которые помогают по-новому смотреть на привычные ситуации.
+
+Без мотивационных лозунгов.
+
+Без давления.
+
+Без необходимости постоянно становиться «лучшей версией себя».
+
+Только пространство для размышлений.
+
+Button:
+
+Перейти в Telegram
+
+⸻
+
+BLOCK 9
+
+Invitation
+
+Headline:
+
+Иногда нескольких вопросов оказывается недостаточно.
+
+Text:
+
+Если вы чувствуете, что хотите исследовать именно свою ситуацию глубже, буду рада встретиться с вами лично.
+
+Кнопка:
+
+Записаться на ознакомительную встречу
+
+⸻
+
+BLOCK 10
+
+FAQ
+
+What is coaching?
+
+Will you give advice?
+
+What if I don’t know my request?
+
+How long does a session last?
+
+Who is coaching not suitable for?
+
+⸻
+
+FOOTER
+
+Minimal.
+
+Instagram
+
+Telegram
+
+Email
+
+Privacy Policy
+
+Impressum
+
+⸻
+
+IMPORTANT UX RULES
+
+The landing page should never feel like marketing.
+
+It should feel like entering a calm room where someone finally isn’t trying to convince you of anything.
+
+The page should breathe.
+
+Silence should become part of the design.
+
+Every transition should feel natural.
+
+Every button should feel like an invitation rather than a call to action.
+
+Design not for conversion.
+
+Design for trust.
